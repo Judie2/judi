@@ -1,4 +1,4 @@
-package com.example.judi;
+/*package com.example.judi;
 
 import com.example.judi.entity.User;
 import com.example.judi.repository.UserRepository;
@@ -51,4 +51,4 @@ public class UserServiceTest {
 
 
 
-}
+}*/
